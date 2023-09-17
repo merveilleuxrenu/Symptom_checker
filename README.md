@@ -57,18 +57,11 @@ This project aims to develop a web-based Symptom Checker application that utiliz
 
 ## Contributors
 
-- Rrnuka S https://github.com/merveilleuxrenu/Symptom_checker
-- Muthu Meenal V I https://github.com/collaborator1
+- Renuka S https://github.com/merveilleuxrenu
+- Muthu Meenal V I https://github.com/muthumeenal12
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- The project acknowledges the use of the NHS API or WebMD API for accessing medical information.
-- Special thanks to the open-source community for providing valuable tools and libraries for machine learning and web development.
-- Remember that this application is for informational purposes and not a substitute for professional medical advice. Always consult a healthcare expert for accurate diagnosis and treatment.
-
-Feel free to enhance this ReadMe with specific installation and usage instructions based on your project's details.
+## Source of the dataset
+    https://github.com/Aniruddha-Tapas/Predicting-Diseases-From-Symptoms/blob/master/Manual-Data/Training.csv
+   
+   

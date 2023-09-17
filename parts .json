@@ -1,0 +1,119 @@
+{
+  "Skin": [
+    "itching",
+    "skin_rash",
+    "nodal_skin_eruptions",
+    "dischromic_patches",
+    "pus_filled_pimples",
+    "blackheads",
+    "scurrying",
+    "blister",
+    "red_sore_around_nose",
+    "yellow_crust_ooze"
+  ],
+  "Nose": [
+    "continuous_sneezing",
+    "chills"
+  ],
+  "Throat":[
+    "continuous_sneezing",
+    "chills
+   ],
+  "Muscles": [
+    "shivering",
+    "muscle_wasting"
+  ],
+  "General Feeling": [
+    "chills",
+    "high_fever",
+    "extra_marital_contacts",
+    "fatigue",
+    "restlessness",
+    "lethargy",
+    "irregular_sugar_level",
+    "high_fever",
+    "visual_disturbances",
+    "toxic_look_(typhos)",
+    "malaise",
+    "phlegm",
+    "congestion",
+    "loss_of_smell"
+  ],
+  "Abdomen, Stomach": [
+    "stomach_pain",
+    "acidity",
+    "vomiting",
+    "loss_of_appetite",
+    "abdominal_pain",
+    "ulcers_on_tongue",
+    "constipation",
+    "belly_pain"
+  ],
+  "Eyes": [
+    "watering_from_eyes",
+    "yellowing_of_eyes",
+    "redness_of_eyes",
+    "puffy_face_and_eyes"
+  ],
+  "Lungs, Throat": [
+    "cough",
+    "mucoid_sputum",
+    "throat_irritation"
+  ],
+  "Chest, Heart": [
+    "chest_pain",
+    "palpitations"
+  ],
+  "Urinary Tract": [
+    "burning_micturition",
+    "spotting_urination",
+    "pus_filled_pimples",
+    "bladder_discomfort",
+    "foul_smell_of_urine",
+    "continuous_feel_of_urine"
+  ],
+  "General Behavior": [
+    "extra_marital_contacts",
+    "family_history",
+    "history_of_alcohol_consumption"
+  ],
+  "Back": [
+    "back_pain"
+  ],
+  "Arms, Legs": [
+    "weakness_in_limbs"
+  ],
+  "General Body": [
+    "weight_loss",
+    "obesity",
+    "receiving_blood_transfusion",
+    "receiving_unsterile_injections",
+    "swollen_extremities",
+    "abnormal_menstruation",
+    "toxic_look_(typhos)"
+  ],
+  "Brain": [
+    "altered_sensorium",
+    "depression"
+  ],
+  "Intestines": [
+    "pain_during_bowel_movements",
+    "pain_in_anal_region",
+    "bloody_stool",
+    "irritation_in_anus",
+    "constipation"
+  ],
+  "Joints": [
+    "painful_walking",
+    "muscle_pain",
+    "muscle_weakness"
+  ],
+  "Legs": [
+    "painful_walking"
+  ],
+  "Muscles": [
+    "muscle_weakness",
+    "painful_walking",
+    "muscle_pain",
+  ]
+}
